@@ -1,0 +1,15 @@
+D:\Learning\C# Tutorial\CSharp_Tutorial\Classes - Basics\bin\Debug\net6.0\Classes - Basics.exe
+D:\Learning\C# Tutorial\CSharp_Tutorial\Classes - Basics\bin\Debug\net6.0\Classes - Basics.deps.json
+D:\Learning\C# Tutorial\CSharp_Tutorial\Classes - Basics\bin\Debug\net6.0\Classes - Basics.runtimeconfig.json
+D:\Learning\C# Tutorial\CSharp_Tutorial\Classes - Basics\bin\Debug\net6.0\Classes - Basics.dll
+D:\Learning\C# Tutorial\CSharp_Tutorial\Classes - Basics\bin\Debug\net6.0\Classes - Basics.pdb
+D:\Learning\C# Tutorial\CSharp_Tutorial\Classes - Basics\obj\Debug\net6.0\Classes - Basics.csproj.AssemblyReference.cache
+D:\Learning\C# Tutorial\CSharp_Tutorial\Classes - Basics\obj\Debug\net6.0\Classes - Basics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\C# Tutorial\CSharp_Tutorial\Classes - Basics\obj\Debug\net6.0\Classes - Basics.AssemblyInfoInputs.cache
+D:\Learning\C# Tutorial\CSharp_Tutorial\Classes - Basics\obj\Debug\net6.0\Classes - Basics.AssemblyInfo.cs
+D:\Learning\C# Tutorial\CSharp_Tutorial\Classes - Basics\obj\Debug\net6.0\Classes - Basics.csproj.CoreCompileInputs.cache
+D:\Learning\C# Tutorial\CSharp_Tutorial\Classes - Basics\obj\Debug\net6.0\Classes - Basics.dll
+D:\Learning\C# Tutorial\CSharp_Tutorial\Classes - Basics\obj\Debug\net6.0\refint\Classes - Basics.dll
+D:\Learning\C# Tutorial\CSharp_Tutorial\Classes - Basics\obj\Debug\net6.0\Classes - Basics.pdb
+D:\Learning\C# Tutorial\CSharp_Tutorial\Classes - Basics\obj\Debug\net6.0\Classes - Basics.genruntimeconfig.cache
+D:\Learning\C# Tutorial\CSharp_Tutorial\Classes - Basics\obj\Debug\net6.0\ref\Classes - Basics.dll

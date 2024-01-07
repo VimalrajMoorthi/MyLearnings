@@ -1,0 +1,15 @@
+D:\Learning\C# Tutorial\HelloWorld\HelloWorld\bin\Debug\net7.0\HelloWorld.exe
+D:\Learning\C# Tutorial\HelloWorld\HelloWorld\bin\Debug\net7.0\HelloWorld.deps.json
+D:\Learning\C# Tutorial\HelloWorld\HelloWorld\bin\Debug\net7.0\HelloWorld.runtimeconfig.json
+D:\Learning\C# Tutorial\HelloWorld\HelloWorld\bin\Debug\net7.0\HelloWorld.dll
+D:\Learning\C# Tutorial\HelloWorld\HelloWorld\bin\Debug\net7.0\HelloWorld.pdb
+D:\Learning\C# Tutorial\HelloWorld\HelloWorld\obj\Debug\net7.0\HelloWorld.csproj.AssemblyReference.cache
+D:\Learning\C# Tutorial\HelloWorld\HelloWorld\obj\Debug\net7.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\C# Tutorial\HelloWorld\HelloWorld\obj\Debug\net7.0\HelloWorld.AssemblyInfoInputs.cache
+D:\Learning\C# Tutorial\HelloWorld\HelloWorld\obj\Debug\net7.0\HelloWorld.AssemblyInfo.cs
+D:\Learning\C# Tutorial\HelloWorld\HelloWorld\obj\Debug\net7.0\HelloWorld.csproj.CoreCompileInputs.cache
+D:\Learning\C# Tutorial\HelloWorld\HelloWorld\obj\Debug\net7.0\HelloWorld.dll
+D:\Learning\C# Tutorial\HelloWorld\HelloWorld\obj\Debug\net7.0\refint\HelloWorld.dll
+D:\Learning\C# Tutorial\HelloWorld\HelloWorld\obj\Debug\net7.0\HelloWorld.pdb
+D:\Learning\C# Tutorial\HelloWorld\HelloWorld\obj\Debug\net7.0\HelloWorld.genruntimeconfig.cache
+D:\Learning\C# Tutorial\HelloWorld\HelloWorld\obj\Debug\net7.0\ref\HelloWorld.dll

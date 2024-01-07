@@ -1,0 +1,12 @@
+D:\Learning\RESTful Web API\MagicVilla\MagicVilla_Utility\bin\Debug\net7.0\MagicVilla_Utility.deps.json
+D:\Learning\RESTful Web API\MagicVilla\MagicVilla_Utility\bin\Debug\net7.0\MagicVilla_Utility.dll
+D:\Learning\RESTful Web API\MagicVilla\MagicVilla_Utility\bin\Debug\net7.0\MagicVilla_Utility.pdb
+D:\Learning\RESTful Web API\MagicVilla\MagicVilla_Utility\obj\Debug\net7.0\MagicVilla_Utility.csproj.AssemblyReference.cache
+D:\Learning\RESTful Web API\MagicVilla\MagicVilla_Utility\obj\Debug\net7.0\MagicVilla_Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\RESTful Web API\MagicVilla\MagicVilla_Utility\obj\Debug\net7.0\MagicVilla_Utility.AssemblyInfoInputs.cache
+D:\Learning\RESTful Web API\MagicVilla\MagicVilla_Utility\obj\Debug\net7.0\MagicVilla_Utility.AssemblyInfo.cs
+D:\Learning\RESTful Web API\MagicVilla\MagicVilla_Utility\obj\Debug\net7.0\MagicVilla_Utility.csproj.CoreCompileInputs.cache
+D:\Learning\RESTful Web API\MagicVilla\MagicVilla_Utility\obj\Debug\net7.0\MagicVilla_Utility.dll
+D:\Learning\RESTful Web API\MagicVilla\MagicVilla_Utility\obj\Debug\net7.0\refint\MagicVilla_Utility.dll
+D:\Learning\RESTful Web API\MagicVilla\MagicVilla_Utility\obj\Debug\net7.0\MagicVilla_Utility.pdb
+D:\Learning\RESTful Web API\MagicVilla\MagicVilla_Utility\obj\Debug\net7.0\ref\MagicVilla_Utility.dll
