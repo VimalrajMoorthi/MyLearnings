@@ -13,3 +13,4 @@ D:\Learning\C# Tutorial\CSharp_Tutorial\SwitchStatement\obj\Debug\net6.0\refint\
 D:\Learning\C# Tutorial\CSharp_Tutorial\SwitchStatement\obj\Debug\net6.0\SwitchStatement.pdb
 D:\Learning\C# Tutorial\CSharp_Tutorial\SwitchStatement\obj\Debug\net6.0\SwitchStatement.genruntimeconfig.cache
 D:\Learning\C# Tutorial\CSharp_Tutorial\SwitchStatement\obj\Debug\net6.0\ref\SwitchStatement.dll
+D:\Learnings\C-Sharp\CSharp_Tutorial\SwitchStatement\obj\Debug\net6.0\SwitchStatement.pdb

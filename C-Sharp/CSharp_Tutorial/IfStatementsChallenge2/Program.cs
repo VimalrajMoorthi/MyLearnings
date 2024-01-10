@@ -12,7 +12,7 @@ class Program
         CheckHighScore(380, "Vimalraj");
 
         Console.Read();
-
+        
     }
     
     static void CheckHighScore(int score, string playerName)

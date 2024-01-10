@@ -1,0 +1,2 @@
+D:\Learnings\C-Sharp\CSharp_Tutorial\Hashtable\obj\Debug\Hashtables.csprojAssemblyReference.cache
+D:\Learnings\C-Sharp\CSharp_Tutorial\Hashtable\obj\Debug\Hashtables.csproj.CoreCompileInputs.cache

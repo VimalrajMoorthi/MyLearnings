@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Learning\\C-Sharp\\CSharp_Tutorial\\IfStatementsChallenge2\\IfStatementsChallenge2.csproj",
+      "projectUniqueName": "D:\\Learnings\\C-Sharp\\CSharp_Tutorial\\IfStatementsChallenge2\\IfStatementsChallenge2.csproj",
       "projectName": "IfStatementsChallenge2",
-      "projectPath": "D:\\Learning\\C-Sharp\\CSharp_Tutorial\\IfStatementsChallenge2\\IfStatementsChallenge2.csproj",
+      "projectPath": "D:\\Learnings\\C-Sharp\\CSharp_Tutorial\\IfStatementsChallenge2\\IfStatementsChallenge2.csproj",
       "packagesPath": "C:\\Users\\vimalraj.moorthy\\.nuget\\packages\\",
-      "outputPath": "D:\\Learning\\C-Sharp\\CSharp_Tutorial\\IfStatementsChallenge2\\obj\\",
+      "outputPath": "D:\\Learnings\\C-Sharp\\CSharp_Tutorial\\IfStatementsChallenge2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

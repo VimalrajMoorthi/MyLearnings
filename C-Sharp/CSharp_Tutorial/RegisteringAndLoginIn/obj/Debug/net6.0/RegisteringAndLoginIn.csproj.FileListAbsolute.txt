@@ -28,3 +28,4 @@ D:\Learning\C# Tutorial\CSharp_Tutorial\RegisteringAndLoginIn\obj\Debug\net6.0\r
 D:\Learning\C# Tutorial\CSharp_Tutorial\RegisteringAndLoginIn\obj\Debug\net6.0\RegisteringAndLoginIn.pdb
 D:\Learning\C# Tutorial\CSharp_Tutorial\RegisteringAndLoginIn\obj\Debug\net6.0\RegisteringAndLoginIn.genruntimeconfig.cache
 D:\Learning\C# Tutorial\CSharp_Tutorial\RegisteringAndLoginIn\obj\Debug\net6.0\ref\RegisteringAndLoginIn.dll
+D:\Learnings\C-Sharp\CSharp_Tutorial\RegisteringAndLoginIn\obj\Debug\net6.0\RegisteringAndLoginIn.pdb

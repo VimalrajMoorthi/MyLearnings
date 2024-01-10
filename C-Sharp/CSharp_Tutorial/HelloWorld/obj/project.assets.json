@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Learning\\C-Sharp\\CSharp_Tutorial\\HelloWorld\\HelloWorld.csproj",
+      "projectUniqueName": "D:\\Learnings\\C-Sharp\\CSharp_Tutorial\\HelloWorld\\HelloWorld.csproj",
       "projectName": "HelloWorld",
-      "projectPath": "D:\\Learning\\C-Sharp\\CSharp_Tutorial\\HelloWorld\\HelloWorld.csproj",
+      "projectPath": "D:\\Learnings\\C-Sharp\\CSharp_Tutorial\\HelloWorld\\HelloWorld.csproj",
       "packagesPath": "C:\\Users\\vimalraj.moorthy\\.nuget\\packages\\",
-      "outputPath": "D:\\Learning\\C-Sharp\\CSharp_Tutorial\\HelloWorld\\obj\\",
+      "outputPath": "D:\\Learnings\\C-Sharp\\CSharp_Tutorial\\HelloWorld\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

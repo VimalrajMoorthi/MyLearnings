@@ -1,45 +1,50 @@
 ﻿// See https://aka.ms/new-console-template for more information
-
-int age = 22;
-
-switch (age)
+class Program
 {
-    case 15:
-        Console.WriteLine("Too young to party in the club!");
-        break;
-    case 25:
-        Console.WriteLine("Good to go!");
-        break;
-    default:
-        Console.WriteLine("how old are you then?");
-        break;
-}
-if (age == 15)
-{
-    Console.WriteLine("Too young to party in the club!");
-}
-else if (age == 25)
-{
-    Console.WriteLine("Good to go!");
-}
-else
-{
-    Console.WriteLine("how old are you then?");
-}
+    static void Main(string[] args)
+    {
+        int age = 22;
 
-string userName = "groot";
+        switch (age)
+        {
+            case 15:
+                Console.WriteLine("Too young to party in the club!");
+                break;
+            case 25:
+                Console.WriteLine("Good to go!");
+                break;
+            default:
+                Console.WriteLine("how old are you then?");
+                break;
+        }
+        if (age == 15)
+        {
+            Console.WriteLine("Too young to party in the club!");
+        }
+        else if (age == 25)
+        {
+            Console.WriteLine("Good to go!");
+        }
+        else
+        {
+            Console.WriteLine("how old are you then?");
+        }
 
-switch (userName)
-{
-    case "Vimal":
-        Console.WriteLine("Hi" + userName);
-        break;
-    case "groot":
-        Console.WriteLine("I am groot!");
-        break;
-    default:
-        Console.WriteLine("unknown person");
-        break;
+        string userName = "groot";
+
+        switch (userName)
+        {
+            case "Vimal":
+                Console.WriteLine("Hi" + userName);
+                break;
+            case "groot":
+                Console.WriteLine("I am groot!");
+                break;
+            default:
+                Console.WriteLine("unknown person");
+                break;
+        }
+
+        Console.Read();
+    }
 }
-
-Console.Read();

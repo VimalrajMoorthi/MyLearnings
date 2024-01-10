@@ -13,3 +13,4 @@ D:\Learning\C# Tutorial\CSharp_Tutorial\IfStatementsChallenge2\obj\Debug\net6.0\
 D:\Learning\C# Tutorial\CSharp_Tutorial\IfStatementsChallenge2\obj\Debug\net6.0\IfStatementsChallenge2.pdb
 D:\Learning\C# Tutorial\CSharp_Tutorial\IfStatementsChallenge2\obj\Debug\net6.0\IfStatementsChallenge2.genruntimeconfig.cache
 D:\Learning\C# Tutorial\CSharp_Tutorial\IfStatementsChallenge2\obj\Debug\net6.0\ref\IfStatementsChallenge2.dll
+D:\Learnings\C-Sharp\CSharp_Tutorial\IfStatementsChallenge2\obj\Debug\net6.0\IfStatementsChallenge2.pdb

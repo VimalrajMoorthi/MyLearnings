@@ -13,3 +13,4 @@ D:\Learning\C# Tutorial\CSharp_Tutorial\Classes - Basics\obj\Debug\net6.0\refint
 D:\Learning\C# Tutorial\CSharp_Tutorial\Classes - Basics\obj\Debug\net6.0\Classes - Basics.pdb
 D:\Learning\C# Tutorial\CSharp_Tutorial\Classes - Basics\obj\Debug\net6.0\Classes - Basics.genruntimeconfig.cache
 D:\Learning\C# Tutorial\CSharp_Tutorial\Classes - Basics\obj\Debug\net6.0\ref\Classes - Basics.dll
+D:\Learnings\C-Sharp\CSharp_Tutorial\Classes - Basics\obj\Debug\net6.0\Classes - Basics.pdb

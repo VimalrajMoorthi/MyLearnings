@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Learning\\C-Sharp\\CSharp_Tutorial\\SwitchStatement\\SwitchStatement.csproj",
+      "projectUniqueName": "D:\\Learnings\\C-Sharp\\CSharp_Tutorial\\SwitchStatement\\SwitchStatement.csproj",
       "projectName": "SwitchStatement",
-      "projectPath": "D:\\Learning\\C-Sharp\\CSharp_Tutorial\\SwitchStatement\\SwitchStatement.csproj",
+      "projectPath": "D:\\Learnings\\C-Sharp\\CSharp_Tutorial\\SwitchStatement\\SwitchStatement.csproj",
       "packagesPath": "C:\\Users\\vimalraj.moorthy\\.nuget\\packages\\",
-      "outputPath": "D:\\Learning\\C-Sharp\\CSharp_Tutorial\\SwitchStatement\\obj\\",
+      "outputPath": "D:\\Learnings\\C-Sharp\\CSharp_Tutorial\\SwitchStatement\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

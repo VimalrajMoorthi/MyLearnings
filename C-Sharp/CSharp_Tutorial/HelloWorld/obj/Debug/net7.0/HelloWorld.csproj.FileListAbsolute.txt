@@ -13,3 +13,4 @@ D:\Learning\C# Tutorial\HelloWorld\HelloWorld\obj\Debug\net7.0\refint\HelloWorld
 D:\Learning\C# Tutorial\HelloWorld\HelloWorld\obj\Debug\net7.0\HelloWorld.pdb
 D:\Learning\C# Tutorial\HelloWorld\HelloWorld\obj\Debug\net7.0\HelloWorld.genruntimeconfig.cache
 D:\Learning\C# Tutorial\HelloWorld\HelloWorld\obj\Debug\net7.0\ref\HelloWorld.dll
+D:\Learnings\C-Sharp\CSharp_Tutorial\HelloWorld\obj\Debug\net7.0\HelloWorld.pdb
