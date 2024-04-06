@@ -14,3 +14,18 @@ D:\Learning\C# Tutorial\CSharp_Tutorial\Classes - Basics\obj\Debug\net6.0\Classe
 D:\Learning\C# Tutorial\CSharp_Tutorial\Classes - Basics\obj\Debug\net6.0\Classes - Basics.genruntimeconfig.cache
 D:\Learning\C# Tutorial\CSharp_Tutorial\Classes - Basics\obj\Debug\net6.0\ref\Classes - Basics.dll
 D:\Learnings\C-Sharp\CSharp_Tutorial\Classes - Basics\obj\Debug\net6.0\Classes - Basics.pdb
+D:\My Documents\Learnings\MyLearnings\C-Sharp\CSharp_Tutorial\Classes - Basics\bin\Debug\net6.0\Classes - Basics.exe
+D:\My Documents\Learnings\MyLearnings\C-Sharp\CSharp_Tutorial\Classes - Basics\bin\Debug\net6.0\Classes - Basics.deps.json
+D:\My Documents\Learnings\MyLearnings\C-Sharp\CSharp_Tutorial\Classes - Basics\bin\Debug\net6.0\Classes - Basics.runtimeconfig.json
+D:\My Documents\Learnings\MyLearnings\C-Sharp\CSharp_Tutorial\Classes - Basics\bin\Debug\net6.0\Classes - Basics.dll
+D:\My Documents\Learnings\MyLearnings\C-Sharp\CSharp_Tutorial\Classes - Basics\bin\Debug\net6.0\Classes - Basics.pdb
+D:\My Documents\Learnings\MyLearnings\C-Sharp\CSharp_Tutorial\Classes - Basics\obj\Debug\net6.0\Classes - Basics.csproj.AssemblyReference.cache
+D:\My Documents\Learnings\MyLearnings\C-Sharp\CSharp_Tutorial\Classes - Basics\obj\Debug\net6.0\Classes - Basics.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Learnings\MyLearnings\C-Sharp\CSharp_Tutorial\Classes - Basics\obj\Debug\net6.0\Classes - Basics.AssemblyInfoInputs.cache
+D:\My Documents\Learnings\MyLearnings\C-Sharp\CSharp_Tutorial\Classes - Basics\obj\Debug\net6.0\Classes - Basics.AssemblyInfo.cs
+D:\My Documents\Learnings\MyLearnings\C-Sharp\CSharp_Tutorial\Classes - Basics\obj\Debug\net6.0\Classes - Basics.csproj.CoreCompileInputs.cache
+D:\My Documents\Learnings\MyLearnings\C-Sharp\CSharp_Tutorial\Classes - Basics\obj\Debug\net6.0\Classes - Basics.dll
+D:\My Documents\Learnings\MyLearnings\C-Sharp\CSharp_Tutorial\Classes - Basics\obj\Debug\net6.0\refint\Classes - Basics.dll
+D:\My Documents\Learnings\MyLearnings\C-Sharp\CSharp_Tutorial\Classes - Basics\obj\Debug\net6.0\Classes - Basics.pdb
+D:\My Documents\Learnings\MyLearnings\C-Sharp\CSharp_Tutorial\Classes - Basics\obj\Debug\net6.0\Classes - Basics.genruntimeconfig.cache
+D:\My Documents\Learnings\MyLearnings\C-Sharp\CSharp_Tutorial\Classes - Basics\obj\Debug\net6.0\ref\Classes - Basics.dll

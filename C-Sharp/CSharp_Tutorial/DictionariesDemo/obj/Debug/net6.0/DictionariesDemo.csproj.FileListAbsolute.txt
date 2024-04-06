@@ -1,0 +1,15 @@
+D:\My Documents\Learnings\MyLearnings\C-Sharp\CSharp_Tutorial\DictionariesDemo\obj\Debug\net6.0\DictionariesDemo.csproj.AssemblyReference.cache
+D:\My Documents\Learnings\MyLearnings\C-Sharp\CSharp_Tutorial\DictionariesDemo\obj\Debug\net6.0\DictionariesDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Learnings\MyLearnings\C-Sharp\CSharp_Tutorial\DictionariesDemo\obj\Debug\net6.0\DictionariesDemo.AssemblyInfoInputs.cache
+D:\My Documents\Learnings\MyLearnings\C-Sharp\CSharp_Tutorial\DictionariesDemo\obj\Debug\net6.0\DictionariesDemo.AssemblyInfo.cs
+D:\My Documents\Learnings\MyLearnings\C-Sharp\CSharp_Tutorial\DictionariesDemo\obj\Debug\net6.0\DictionariesDemo.csproj.CoreCompileInputs.cache
+D:\My Documents\Learnings\MyLearnings\C-Sharp\CSharp_Tutorial\DictionariesDemo\bin\Debug\net6.0\DictionariesDemo.exe
+D:\My Documents\Learnings\MyLearnings\C-Sharp\CSharp_Tutorial\DictionariesDemo\bin\Debug\net6.0\DictionariesDemo.deps.json
+D:\My Documents\Learnings\MyLearnings\C-Sharp\CSharp_Tutorial\DictionariesDemo\bin\Debug\net6.0\DictionariesDemo.runtimeconfig.json
+D:\My Documents\Learnings\MyLearnings\C-Sharp\CSharp_Tutorial\DictionariesDemo\bin\Debug\net6.0\DictionariesDemo.dll
+D:\My Documents\Learnings\MyLearnings\C-Sharp\CSharp_Tutorial\DictionariesDemo\bin\Debug\net6.0\DictionariesDemo.pdb
+D:\My Documents\Learnings\MyLearnings\C-Sharp\CSharp_Tutorial\DictionariesDemo\obj\Debug\net6.0\DictionariesDemo.dll
+D:\My Documents\Learnings\MyLearnings\C-Sharp\CSharp_Tutorial\DictionariesDemo\obj\Debug\net6.0\refint\DictionariesDemo.dll
+D:\My Documents\Learnings\MyLearnings\C-Sharp\CSharp_Tutorial\DictionariesDemo\obj\Debug\net6.0\DictionariesDemo.pdb
+D:\My Documents\Learnings\MyLearnings\C-Sharp\CSharp_Tutorial\DictionariesDemo\obj\Debug\net6.0\DictionariesDemo.genruntimeconfig.cache
+D:\My Documents\Learnings\MyLearnings\C-Sharp\CSharp_Tutorial\DictionariesDemo\obj\Debug\net6.0\ref\DictionariesDemo.dll

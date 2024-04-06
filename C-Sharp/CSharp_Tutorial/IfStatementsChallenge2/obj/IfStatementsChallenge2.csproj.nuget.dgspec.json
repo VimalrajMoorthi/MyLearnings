@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Learning\\C# Tutorial\\CSharp_Tutorial\\IfStatementsChallenge2\\IfStatementsChallenge2.csproj": {}
+    "D:\\My Documents\\Learnings\\MyLearnings\\C-Sharp\\CSharp_Tutorial\\IfStatementsChallenge2\\IfStatementsChallenge2.csproj": {}
   },
   "projects": {
-    "D:\\Learning\\C# Tutorial\\CSharp_Tutorial\\IfStatementsChallenge2\\IfStatementsChallenge2.csproj": {
+    "D:\\My Documents\\Learnings\\MyLearnings\\C-Sharp\\CSharp_Tutorial\\IfStatementsChallenge2\\IfStatementsChallenge2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Learning\\C# Tutorial\\CSharp_Tutorial\\IfStatementsChallenge2\\IfStatementsChallenge2.csproj",
+        "projectUniqueName": "D:\\My Documents\\Learnings\\MyLearnings\\C-Sharp\\CSharp_Tutorial\\IfStatementsChallenge2\\IfStatementsChallenge2.csproj",
         "projectName": "IfStatementsChallenge2",
-        "projectPath": "D:\\Learning\\C# Tutorial\\CSharp_Tutorial\\IfStatementsChallenge2\\IfStatementsChallenge2.csproj",
-        "packagesPath": "C:\\Users\\vimalraj.moorthy\\.nuget\\packages\\",
-        "outputPath": "D:\\Learning\\C# Tutorial\\CSharp_Tutorial\\IfStatementsChallenge2\\obj\\",
+        "projectPath": "D:\\My Documents\\Learnings\\MyLearnings\\C-Sharp\\CSharp_Tutorial\\IfStatementsChallenge2\\IfStatementsChallenge2.csproj",
+        "packagesPath": "C:\\Users\\Vimal\\.nuget\\packages\\",
+        "outputPath": "D:\\My Documents\\Learnings\\MyLearnings\\C-Sharp\\CSharp_Tutorial\\IfStatementsChallenge2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\vimalraj.moorthy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Vimal\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

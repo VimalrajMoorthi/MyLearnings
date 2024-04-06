@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Learning\\C# Tutorial\\CSharp_Tutorial\\SwitchStatement\\SwitchStatement.csproj": {}
+    "D:\\My Documents\\Learnings\\MyLearnings\\C-Sharp\\CSharp_Tutorial\\SwitchStatement\\SwitchStatement.csproj": {}
   },
   "projects": {
-    "D:\\Learning\\C# Tutorial\\CSharp_Tutorial\\SwitchStatement\\SwitchStatement.csproj": {
+    "D:\\My Documents\\Learnings\\MyLearnings\\C-Sharp\\CSharp_Tutorial\\SwitchStatement\\SwitchStatement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Learning\\C# Tutorial\\CSharp_Tutorial\\SwitchStatement\\SwitchStatement.csproj",
+        "projectUniqueName": "D:\\My Documents\\Learnings\\MyLearnings\\C-Sharp\\CSharp_Tutorial\\SwitchStatement\\SwitchStatement.csproj",
         "projectName": "SwitchStatement",
-        "projectPath": "D:\\Learning\\C# Tutorial\\CSharp_Tutorial\\SwitchStatement\\SwitchStatement.csproj",
-        "packagesPath": "C:\\Users\\vimalraj.moorthy\\.nuget\\packages\\",
-        "outputPath": "D:\\Learning\\C# Tutorial\\CSharp_Tutorial\\SwitchStatement\\obj\\",
+        "projectPath": "D:\\My Documents\\Learnings\\MyLearnings\\C-Sharp\\CSharp_Tutorial\\SwitchStatement\\SwitchStatement.csproj",
+        "packagesPath": "C:\\Users\\Vimal\\.nuget\\packages\\",
+        "outputPath": "D:\\My Documents\\Learnings\\MyLearnings\\C-Sharp\\CSharp_Tutorial\\SwitchStatement\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\vimalraj.moorthy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Vimal\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Learning\\C# Tutorial\\CSharp_Tutorial\\Classes - Basics\\Classes - Basics.csproj": {}
+    "D:\\My Documents\\Learnings\\MyLearnings\\C-Sharp\\CSharp_Tutorial\\Classes - Basics\\Classes - Basics.csproj": {}
   },
   "projects": {
-    "D:\\Learning\\C# Tutorial\\CSharp_Tutorial\\Classes - Basics\\Classes - Basics.csproj": {
+    "D:\\My Documents\\Learnings\\MyLearnings\\C-Sharp\\CSharp_Tutorial\\Classes - Basics\\Classes - Basics.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Learning\\C# Tutorial\\CSharp_Tutorial\\Classes - Basics\\Classes - Basics.csproj",
+        "projectUniqueName": "D:\\My Documents\\Learnings\\MyLearnings\\C-Sharp\\CSharp_Tutorial\\Classes - Basics\\Classes - Basics.csproj",
         "projectName": "Classes - Basics",
-        "projectPath": "D:\\Learning\\C# Tutorial\\CSharp_Tutorial\\Classes - Basics\\Classes - Basics.csproj",
-        "packagesPath": "C:\\Users\\vimalraj.moorthy\\.nuget\\packages\\",
-        "outputPath": "D:\\Learning\\C# Tutorial\\CSharp_Tutorial\\Classes - Basics\\obj\\",
+        "projectPath": "D:\\My Documents\\Learnings\\MyLearnings\\C-Sharp\\CSharp_Tutorial\\Classes - Basics\\Classes - Basics.csproj",
+        "packagesPath": "C:\\Users\\Vimal\\.nuget\\packages\\",
+        "outputPath": "D:\\My Documents\\Learnings\\MyLearnings\\C-Sharp\\CSharp_Tutorial\\Classes - Basics\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\vimalraj.moorthy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Vimal\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
