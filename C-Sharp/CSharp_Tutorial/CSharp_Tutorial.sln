@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.4.33205.214
+# Visual Studio 15
+VisualStudioVersion = 15.0.34112.143
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{9CB64F00-98F6-4265-BA2E-EA39A8DF0B86}"
 EndProject
@@ -15,7 +15,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Classes - Basics", "Classes
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hashtables", "Hashtable\Hashtables.csproj", "{915C9509-5CC3-4EDF-B4B0-B46D4388DBA0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionariesDemo", "DictionariesDemo\DictionariesDemo.csproj", "{C6C3F40E-5267-458D-BE12-05A016528BEB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DictionariesDemo", "DictionariesDemo\DictionariesDemo.csproj", "{C6C3F40E-5267-458D-BE12-05A016528BEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StacksDemo", "StacksDemo\StacksDemo.csproj", "{5EDD3874-91EA-49D7-A01A-1B568D1A7EB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueuesDemo", "QueuesDemo\QueuesDemo.csproj", "{78757544-E237-4B67-9361-8DC4A202A903}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritanceDemo", "InheritanceDemo\InheritanceDemo.csproj", "{C5780F92-39F1-4455-BA66-CF57A58C66DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualOverrideDemo", "VirtualOverrideDemo\VirtualOverrideDemo.csproj", "{FD7F2DDB-470A-4DC3-8C7D-B8948D3819D5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +59,22 @@ Global
 		{C6C3F40E-5267-458D-BE12-05A016528BEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C6C3F40E-5267-458D-BE12-05A016528BEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C6C3F40E-5267-458D-BE12-05A016528BEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EDD3874-91EA-49D7-A01A-1B568D1A7EB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EDD3874-91EA-49D7-A01A-1B568D1A7EB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EDD3874-91EA-49D7-A01A-1B568D1A7EB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EDD3874-91EA-49D7-A01A-1B568D1A7EB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78757544-E237-4B67-9361-8DC4A202A903}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78757544-E237-4B67-9361-8DC4A202A903}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78757544-E237-4B67-9361-8DC4A202A903}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78757544-E237-4B67-9361-8DC4A202A903}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5780F92-39F1-4455-BA66-CF57A58C66DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5780F92-39F1-4455-BA66-CF57A58C66DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5780F92-39F1-4455-BA66-CF57A58C66DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5780F92-39F1-4455-BA66-CF57A58C66DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD7F2DDB-470A-4DC3-8C7D-B8948D3819D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD7F2DDB-470A-4DC3-8C7D-B8948D3819D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD7F2DDB-470A-4DC3-8C7D-B8948D3819D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD7F2DDB-470A-4DC3-8C7D-B8948D3819D5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,13 +1,15 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
+using System;
+
 namespace RegisteringAndLoginIn
 {
 
     class Program
     {
 
-        static string? userName;
-        static string? password;
+        static string userName;
+        static string password;
 
         static void Main(string[] args)
         {

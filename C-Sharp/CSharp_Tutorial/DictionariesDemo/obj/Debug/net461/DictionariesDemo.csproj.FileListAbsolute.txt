@@ -1,0 +1,4 @@
+D:\Learnings\C-Sharp\CSharp_Tutorial\DictionariesDemo\obj\Debug\net461\DictionariesDemo.csprojAssemblyReference.cache
+D:\Learnings\C-Sharp\CSharp_Tutorial\DictionariesDemo\obj\Debug\net461\DictionariesDemo.csproj.CoreCompileInputs.cache
+D:\Learnings\C-Sharp\CSharp_Tutorial\DictionariesDemo\obj\Debug\net461\DictionariesDemo.AssemblyInfoInputs.cache
+D:\Learnings\C-Sharp\CSharp_Tutorial\DictionariesDemo\obj\Debug\net461\DictionariesDemo.AssemblyInfo.cs

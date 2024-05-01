@@ -1,0 +1,7 @@
+D:\Learnings\C-Sharp\CSharp_Tutorial\HelloWorld\bin\Debug\net452\HelloWorld.exe
+D:\Learnings\C-Sharp\CSharp_Tutorial\HelloWorld\bin\Debug\net452\HelloWorld.pdb
+D:\Learnings\C-Sharp\CSharp_Tutorial\HelloWorld\obj\Debug\net452\HelloWorld.csproj.CoreCompileInputs.cache
+D:\Learnings\C-Sharp\CSharp_Tutorial\HelloWorld\obj\Debug\net452\HelloWorld.AssemblyInfoInputs.cache
+D:\Learnings\C-Sharp\CSharp_Tutorial\HelloWorld\obj\Debug\net452\HelloWorld.AssemblyInfo.cs
+D:\Learnings\C-Sharp\CSharp_Tutorial\HelloWorld\obj\Debug\net452\HelloWorld.exe
+D:\Learnings\C-Sharp\CSharp_Tutorial\HelloWorld\obj\Debug\net452\HelloWorld.pdb

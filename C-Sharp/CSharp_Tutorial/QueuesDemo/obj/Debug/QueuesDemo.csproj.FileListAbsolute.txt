@@ -1,0 +1,7 @@
+D:\Learnings\C-Sharp\CSharp_Tutorial\QueuesDemo\bin\Debug\QueuesDemo.exe.config
+D:\Learnings\C-Sharp\CSharp_Tutorial\QueuesDemo\bin\Debug\QueuesDemo.exe
+D:\Learnings\C-Sharp\CSharp_Tutorial\QueuesDemo\bin\Debug\QueuesDemo.pdb
+D:\Learnings\C-Sharp\CSharp_Tutorial\QueuesDemo\obj\Debug\QueuesDemo.csprojAssemblyReference.cache
+D:\Learnings\C-Sharp\CSharp_Tutorial\QueuesDemo\obj\Debug\QueuesDemo.csproj.CoreCompileInputs.cache
+D:\Learnings\C-Sharp\CSharp_Tutorial\QueuesDemo\obj\Debug\QueuesDemo.exe
+D:\Learnings\C-Sharp\CSharp_Tutorial\QueuesDemo\obj\Debug\QueuesDemo.pdb

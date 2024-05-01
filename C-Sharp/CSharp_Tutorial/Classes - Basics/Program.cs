@@ -1,22 +1,36 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 using Classes___Basics;
 
-Human Vimal = new Human("Vimalraj", "Moorthi", "Blue", 26);
-Vimal.IntroduceMySelf();
+namespace StacksDemo
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
 
-Human Shree = new Human("Shree", "Lakshmi", "Brown");
-Shree.IntroduceMySelf();
+            Human Vimal = new Human("Vimalraj", "Moorthi", "Blue", 26);
+            Vimal.IntroduceMySelf();
 
-Human Rex = new Human("Antony", "Rex", 38);
-Rex.IntroduceMySelf();
+            Human Shree = new Human("Shree", "Lakshmi", "Brown");
+            Shree.IntroduceMySelf();
 
-Human Elaya = new Human("Elaya", "Kumar");
-Elaya.IntroduceMySelf();
+            Human Rex = new Human("Antony", "Rex", 38);
+            Rex.IntroduceMySelf();
 
-Human Raju = new Human("Raju");
-Raju.IntroduceMySelf();
+            Human Elaya = new Human("Elaya", "Kumar");
+            Elaya.IntroduceMySelf();
 
-Human basicHuman = new Human();
-basicHuman.IntroduceMySelf();
+            Human Raju = new Human("Raju");
+            Raju.IntroduceMySelf();
 
-Console.Read();
+            Human basicHuman = new Human();
+            basicHuman.IntroduceMySelf();
+
+            Console.Read();
+        }
+    }
+}

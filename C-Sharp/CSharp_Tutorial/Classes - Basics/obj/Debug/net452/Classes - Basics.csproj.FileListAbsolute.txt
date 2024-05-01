@@ -1,0 +1,7 @@
+D:\Learnings\C-Sharp\CSharp_Tutorial\Classes - Basics\bin\Debug\net452\Classes - Basics.exe
+D:\Learnings\C-Sharp\CSharp_Tutorial\Classes - Basics\bin\Debug\net452\Classes - Basics.pdb
+D:\Learnings\C-Sharp\CSharp_Tutorial\Classes - Basics\obj\Debug\net452\Classes - Basics.csproj.CoreCompileInputs.cache
+D:\Learnings\C-Sharp\CSharp_Tutorial\Classes - Basics\obj\Debug\net452\Classes - Basics.AssemblyInfoInputs.cache
+D:\Learnings\C-Sharp\CSharp_Tutorial\Classes - Basics\obj\Debug\net452\Classes - Basics.AssemblyInfo.cs
+D:\Learnings\C-Sharp\CSharp_Tutorial\Classes - Basics\obj\Debug\net452\Classes - Basics.exe
+D:\Learnings\C-Sharp\CSharp_Tutorial\Classes - Basics\obj\Debug\net452\Classes - Basics.pdb

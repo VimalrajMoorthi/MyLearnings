@@ -1,0 +1,7 @@
+D:\Learnings\C-Sharp\CSharp_Tutorial\RegisteringAndLoginIn\bin\Debug\net452\RegisteringAndLoginIn.exe
+D:\Learnings\C-Sharp\CSharp_Tutorial\RegisteringAndLoginIn\bin\Debug\net452\RegisteringAndLoginIn.pdb
+D:\Learnings\C-Sharp\CSharp_Tutorial\RegisteringAndLoginIn\obj\Debug\net452\RegisteringAndLoginIn.csproj.CoreCompileInputs.cache
+D:\Learnings\C-Sharp\CSharp_Tutorial\RegisteringAndLoginIn\obj\Debug\net452\RegisteringAndLoginIn.AssemblyInfoInputs.cache
+D:\Learnings\C-Sharp\CSharp_Tutorial\RegisteringAndLoginIn\obj\Debug\net452\RegisteringAndLoginIn.AssemblyInfo.cs
+D:\Learnings\C-Sharp\CSharp_Tutorial\RegisteringAndLoginIn\obj\Debug\net452\RegisteringAndLoginIn.exe
+D:\Learnings\C-Sharp\CSharp_Tutorial\RegisteringAndLoginIn\obj\Debug\net452\RegisteringAndLoginIn.pdb

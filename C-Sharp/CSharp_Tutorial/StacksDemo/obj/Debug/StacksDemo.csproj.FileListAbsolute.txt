@@ -1,0 +1,7 @@
+D:\Learnings\C-Sharp\CSharp_Tutorial\StacksDemo\bin\Debug\StacksDemo.exe.config
+D:\Learnings\C-Sharp\CSharp_Tutorial\StacksDemo\bin\Debug\StacksDemo.exe
+D:\Learnings\C-Sharp\CSharp_Tutorial\StacksDemo\bin\Debug\StacksDemo.pdb
+D:\Learnings\C-Sharp\CSharp_Tutorial\StacksDemo\obj\Debug\StacksDemo.csproj.CoreCompileInputs.cache
+D:\Learnings\C-Sharp\CSharp_Tutorial\StacksDemo\obj\Debug\StacksDemo.exe
+D:\Learnings\C-Sharp\CSharp_Tutorial\StacksDemo\obj\Debug\StacksDemo.pdb
+D:\Learnings\C-Sharp\CSharp_Tutorial\StacksDemo\obj\Debug\StacksDemo.csprojAssemblyReference.cache

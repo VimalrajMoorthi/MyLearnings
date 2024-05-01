@@ -13,3 +13,4 @@ D:\My Documents\Learnings\MyLearnings\C-Sharp\CSharp_Tutorial\DictionariesDemo\o
 D:\My Documents\Learnings\MyLearnings\C-Sharp\CSharp_Tutorial\DictionariesDemo\obj\Debug\net6.0\DictionariesDemo.pdb
 D:\My Documents\Learnings\MyLearnings\C-Sharp\CSharp_Tutorial\DictionariesDemo\obj\Debug\net6.0\DictionariesDemo.genruntimeconfig.cache
 D:\My Documents\Learnings\MyLearnings\C-Sharp\CSharp_Tutorial\DictionariesDemo\obj\Debug\net6.0\ref\DictionariesDemo.dll
+D:\Learnings\C-Sharp\CSharp_Tutorial\DictionariesDemo\obj\Debug\net6.0\DictionariesDemo.pdb

@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\My Documents\\Learnings\\MyLearnings\\C-Sharp\\CSharp_Tutorial\\RegisteringAndLoginIn\\RegisteringAndLoginIn.csproj": {}
+    "D:\\Learnings\\C-Sharp\\CSharp_Tutorial\\RegisteringAndLoginIn\\RegisteringAndLoginIn.csproj": {}
   },
   "projects": {
-    "D:\\My Documents\\Learnings\\MyLearnings\\C-Sharp\\CSharp_Tutorial\\RegisteringAndLoginIn\\RegisteringAndLoginIn.csproj": {
+    "D:\\Learnings\\C-Sharp\\CSharp_Tutorial\\RegisteringAndLoginIn\\RegisteringAndLoginIn.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\My Documents\\Learnings\\MyLearnings\\C-Sharp\\CSharp_Tutorial\\RegisteringAndLoginIn\\RegisteringAndLoginIn.csproj",
+        "projectUniqueName": "D:\\Learnings\\C-Sharp\\CSharp_Tutorial\\RegisteringAndLoginIn\\RegisteringAndLoginIn.csproj",
         "projectName": "RegisteringAndLoginIn",
-        "projectPath": "D:\\My Documents\\Learnings\\MyLearnings\\C-Sharp\\CSharp_Tutorial\\RegisteringAndLoginIn\\RegisteringAndLoginIn.csproj",
-        "packagesPath": "C:\\Users\\Vimal\\.nuget\\packages\\",
-        "outputPath": "D:\\My Documents\\Learnings\\MyLearnings\\C-Sharp\\CSharp_Tutorial\\RegisteringAndLoginIn\\obj\\",
+        "projectPath": "D:\\Learnings\\C-Sharp\\CSharp_Tutorial\\RegisteringAndLoginIn\\RegisteringAndLoginIn.csproj",
+        "packagesPath": "C:\\Users\\vimalraj.moorthy\\.nuget\\packages\\",
+        "outputPath": "D:\\Learnings\\C-Sharp\\CSharp_Tutorial\\RegisteringAndLoginIn\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Vimal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\vimalraj.moorthy\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.408\\RuntimeIdentifierGraph.json"
         }
       }
     }
