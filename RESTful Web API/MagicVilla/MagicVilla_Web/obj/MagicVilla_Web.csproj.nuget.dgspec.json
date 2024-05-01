@@ -1,18 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Learning\\RESTful Web API\\MagicVilla\\MagicVilla_Web\\MagicVilla_Web.csproj": {}
+    "D:\\Learnings\\RESTful Web API\\MagicVilla\\MagicVilla_Web\\MagicVilla_Web.csproj": {}
   },
   "projects": {
-    "D:\\Learning\\RESTful Web API\\MagicVilla\\MagicVilla_Utility\\MagicVilla_Utility.csproj": {
+    "D:\\Learnings\\RESTful Web API\\MagicVilla\\MagicVilla_Utility\\MagicVilla_Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Learning\\RESTful Web API\\MagicVilla\\MagicVilla_Utility\\MagicVilla_Utility.csproj",
+        "projectUniqueName": "D:\\Learnings\\RESTful Web API\\MagicVilla\\MagicVilla_Utility\\MagicVilla_Utility.csproj",
         "projectName": "MagicVilla_Utility",
-        "projectPath": "D:\\Learning\\RESTful Web API\\MagicVilla\\MagicVilla_Utility\\MagicVilla_Utility.csproj",
+        "projectPath": "D:\\Learnings\\RESTful Web API\\MagicVilla\\MagicVilla_Utility\\MagicVilla_Utility.csproj",
         "packagesPath": "C:\\Users\\vimalraj.moorthy\\.nuget\\packages\\",
-        "outputPath": "D:\\Learning\\RESTful Web API\\MagicVilla\\MagicVilla_Utility\\obj\\",
+        "outputPath": "D:\\Learnings\\RESTful Web API\\MagicVilla\\MagicVilla_Utility\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "C:\\Users\\vimalraj.moorthy\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -55,19 +58,22 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.408\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Learning\\RESTful Web API\\MagicVilla\\MagicVilla_Web\\MagicVilla_Web.csproj": {
+    "D:\\Learnings\\RESTful Web API\\MagicVilla\\MagicVilla_Web\\MagicVilla_Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Learning\\RESTful Web API\\MagicVilla\\MagicVilla_Web\\MagicVilla_Web.csproj",
+        "projectUniqueName": "D:\\Learnings\\RESTful Web API\\MagicVilla\\MagicVilla_Web\\MagicVilla_Web.csproj",
         "projectName": "MagicVilla_Web",
-        "projectPath": "D:\\Learning\\RESTful Web API\\MagicVilla\\MagicVilla_Web\\MagicVilla_Web.csproj",
+        "projectPath": "D:\\Learnings\\RESTful Web API\\MagicVilla\\MagicVilla_Web\\MagicVilla_Web.csproj",
         "packagesPath": "C:\\Users\\vimalraj.moorthy\\.nuget\\packages\\",
-        "outputPath": "D:\\Learning\\RESTful Web API\\MagicVilla\\MagicVilla_Web\\obj\\",
+        "outputPath": "D:\\Learnings\\RESTful Web API\\MagicVilla\\MagicVilla_Web\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "C:\\Users\\vimalraj.moorthy\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -83,8 +89,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\Learning\\RESTful Web API\\MagicVilla\\MagicVilla_Utility\\MagicVilla_Utility.csproj": {
-                "projectPath": "D:\\Learning\\RESTful Web API\\MagicVilla\\MagicVilla_Utility\\MagicVilla_Utility.csproj"
+              "D:\\Learnings\\RESTful Web API\\MagicVilla\\MagicVilla_Utility\\MagicVilla_Utility.csproj": {
+                "projectPath": "D:\\Learnings\\RESTful Web API\\MagicVilla\\MagicVilla_Utility\\MagicVilla_Utility.csproj"
               }
             }
           }
@@ -135,7 +141,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.408\\RuntimeIdentifierGraph.json"
         }
       }
     }

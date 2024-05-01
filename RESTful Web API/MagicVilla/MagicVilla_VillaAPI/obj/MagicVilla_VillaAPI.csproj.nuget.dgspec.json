@@ -1,18 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Learning\\RESTful Web API\\MagicVilla\\MagicVilla_VillaAPI\\MagicVilla_VillaAPI.csproj": {}
+    "D:\\Learnings\\RESTful Web API\\MagicVilla\\MagicVilla_VillaAPI\\MagicVilla_VillaAPI.csproj": {}
   },
   "projects": {
-    "D:\\Learning\\RESTful Web API\\MagicVilla\\MagicVilla_VillaAPI\\MagicVilla_VillaAPI.csproj": {
+    "D:\\Learnings\\RESTful Web API\\MagicVilla\\MagicVilla_VillaAPI\\MagicVilla_VillaAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Learning\\RESTful Web API\\MagicVilla\\MagicVilla_VillaAPI\\MagicVilla_VillaAPI.csproj",
+        "projectUniqueName": "D:\\Learnings\\RESTful Web API\\MagicVilla\\MagicVilla_VillaAPI\\MagicVilla_VillaAPI.csproj",
         "projectName": "MagicVilla_VillaAPI",
-        "projectPath": "D:\\Learning\\RESTful Web API\\MagicVilla\\MagicVilla_VillaAPI\\MagicVilla_VillaAPI.csproj",
+        "projectPath": "D:\\Learnings\\RESTful Web API\\MagicVilla\\MagicVilla_VillaAPI\\MagicVilla_VillaAPI.csproj",
         "packagesPath": "C:\\Users\\vimalraj.moorthy\\.nuget\\packages\\",
-        "outputPath": "D:\\Learning\\RESTful Web API\\MagicVilla\\MagicVilla_VillaAPI\\obj\\",
+        "outputPath": "D:\\Learnings\\RESTful Web API\\MagicVilla\\MagicVilla_VillaAPI\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "C:\\Users\\vimalraj.moorthy\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -118,7 +121,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.408\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nB64OOJPwcEwN5xvyaqlbKlY48OaIhE/fR41DbDEGhqNQNQ6q4DeT+PRQX8Bh5mpmJthAWsmIE1N678I9k2MIQ==",
+  "dgSpecHash": "3LIaicU+z+s+OsdDZCrbGXTMN8xDKP4KxXBhYzxUav4sAUoMliOzNUGoXdIG0xKkG4uF5s8gTQdj8BwVNj/u/g==",
   "success": true,
-  "projectFilePath": "D:\\Learning\\RESTful Web API\\MagicVilla\\MagicVilla_VillaAPI\\MagicVilla_VillaAPI.csproj",
+  "projectFilePath": "D:\\Learnings\\RESTful Web API\\MagicVilla\\MagicVilla_VillaAPI\\MagicVilla_VillaAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vimalraj.moorthy\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\vimalraj.moorthy\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
