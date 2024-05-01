@@ -1,42 +1,38 @@
 {
   "version": 3,
   "targets": {
-    ".NETFramework,Version=v6.0": {},
-    ".NETFramework,Version=v6.0/win7-x86": {}
+    "net6.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    ".NETFramework,Version=v6.0": []
+    "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\vimalraj.moorthy\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Vimal\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Learnings\\C-Sharp\\CSharp_Tutorial\\SwitchStatement\\SwitchStatement.csproj",
+      "projectUniqueName": "D:\\My Documents\\Learnings\\MyLearnings\\C-Sharp\\CSharp_Tutorial\\SwitchStatement\\SwitchStatement.csproj",
       "projectName": "SwitchStatement",
-      "projectPath": "D:\\Learnings\\C-Sharp\\CSharp_Tutorial\\SwitchStatement\\SwitchStatement.csproj",
-      "packagesPath": "C:\\Users\\vimalraj.moorthy\\.nuget\\packages\\",
-      "outputPath": "D:\\Learnings\\C-Sharp\\CSharp_Tutorial\\SwitchStatement\\obj\\",
+      "projectPath": "D:\\My Documents\\Learnings\\MyLearnings\\C-Sharp\\CSharp_Tutorial\\SwitchStatement\\SwitchStatement.csproj",
+      "packagesPath": "C:\\Users\\Vimal\\.nuget\\packages\\",
+      "outputPath": "D:\\My Documents\\Learnings\\MyLearnings\\C-Sharp\\CSharp_Tutorial\\SwitchStatement\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\vimalraj.moorthy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Vimal\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net60"
+        "net6.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net60": {
+        "net6.0": {
+          "targetAlias": "net6.0",
           "projectReferences": {}
         }
       },
@@ -47,11 +43,25 @@
       }
     },
     "frameworks": {
-      "net60": {}
-    },
-    "runtimes": {
-      "win7-x86": {
-        "#import": []
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

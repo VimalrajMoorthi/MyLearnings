@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.34112.143
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{9CB64F00-98F6-4265-BA2E-EA39A8DF0B86}"
 EndProject
@@ -14,6 +14,8 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Classes - Basics", "Classes - Basics\Classes - Basics.csproj", "{D3052815-4B6C-4D50-A097-8AE0083234AC}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hashtables", "Hashtable\Hashtables.csproj", "{915C9509-5CC3-4EDF-B4B0-B46D4388DBA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionariesDemo", "DictionariesDemo\DictionariesDemo.csproj", "{C6C3F40E-5267-458D-BE12-05A016528BEB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{915C9509-5CC3-4EDF-B4B0-B46D4388DBA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{915C9509-5CC3-4EDF-B4B0-B46D4388DBA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{915C9509-5CC3-4EDF-B4B0-B46D4388DBA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6C3F40E-5267-458D-BE12-05A016528BEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6C3F40E-5267-458D-BE12-05A016528BEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6C3F40E-5267-458D-BE12-05A016528BEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6C3F40E-5267-458D-BE12-05A016528BEB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
