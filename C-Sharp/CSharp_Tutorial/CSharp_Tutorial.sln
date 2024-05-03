@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritanceDemo", "Inherita
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualOverrideDemo", "VirtualOverrideDemo\VirtualOverrideDemo.csproj", "{FD7F2DDB-470A-4DC3-8C7D-B8948D3819D5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritanceC", "InheritanceC\InheritanceC.csproj", "{2D883501-CD95-43F5-AF95-5F76838C1485}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{FD7F2DDB-470A-4DC3-8C7D-B8948D3819D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD7F2DDB-470A-4DC3-8C7D-B8948D3819D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD7F2DDB-470A-4DC3-8C7D-B8948D3819D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D883501-CD95-43F5-AF95-5F76838C1485}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D883501-CD95-43F5-AF95-5F76838C1485}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D883501-CD95-43F5-AF95-5F76838C1485}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D883501-CD95-43F5-AF95-5F76838C1485}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

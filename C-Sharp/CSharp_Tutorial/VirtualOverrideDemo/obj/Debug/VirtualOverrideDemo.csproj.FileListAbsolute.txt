@@ -4,3 +4,4 @@ D:\Learnings\C-Sharp\CSharp_Tutorial\VirtualOverrideDemo\bin\Debug\VirtualOverri
 D:\Learnings\C-Sharp\CSharp_Tutorial\VirtualOverrideDemo\bin\Debug\VirtualOverrideDemo.pdb
 D:\Learnings\C-Sharp\CSharp_Tutorial\VirtualOverrideDemo\obj\Debug\VirtualOverrideDemo.exe
 D:\Learnings\C-Sharp\CSharp_Tutorial\VirtualOverrideDemo\obj\Debug\VirtualOverrideDemo.pdb
+D:\Learnings\C-Sharp\CSharp_Tutorial\VirtualOverrideDemo\obj\Debug\VirtualOverrideDemo.csprojAssemblyReference.cache
